@@ -17,11 +17,11 @@ I’m passionate about building intelligent, accessible, and secure digital solu
 
 ### 🛠️ Tech & Tools
 
-**Languages:** Python, JavaScript, HTML, CSS, SQL
+**Languages:** Python, JavaScript, HTML, CSS, SQL, MongoDB, MySQL
 **Frameworks & Libraries:** React, Flask, Node.js
 **AI/ML Tools:** OpenAI API, Hugging Face, Scikit-learn
 **Cybersecurity Skills:** Threat analysis, vulnerability scanning, secure coding
-**Other:** Git, VS Code, Linux CLI
+**Other:** Git, VS Code, Figma
 
 ---
 
