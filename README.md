@@ -9,8 +9,8 @@ I’m passionate about building intelligent, accessible, and secure digital solu
 ### 🌟 About Me
 
 * 🎯 Currently working as a **Digital Associate** in the **Cybersecurity stream**
-* 🤖 Graduate of a hands-on **AI Bootcamp**, with projects in **LLMs, accessibility tools, and AI automation**
-* 🔍 Interested in **AI/ML applications, penetration testing, and secure software engineering**
+* 🤖 Completed an **AI Bootcamp**, with projects in **LLMs, accessibility tools, and AI automation**
+* 🔍 Interested in **AI/ML applications, penetration testing, and secure software engineering as well as Data Analytics**
 * 📂 Building my portfolio of real-world projects right here on GitHub
 
 ---
